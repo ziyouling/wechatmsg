@@ -1,0 +1,16 @@
+2021-12-10 13:17:18 291
+to load comment: wxb45082dbda7c55fe roomid:1394--------
+2021-12-10 13:17:24 554
+got scancode:5 room: 1394
+2021-12-10 13:18:07 795
+session server is running:
+2021-12-10 13:18:07 823
+to load comment: wx3823924b2804b672 roomid:2877--------
+2021-12-10 13:18:09 768
+got scancode:8 room: 2877
+2021-12-10 13:18:09 801
+to load comment: wx3823924b2804b672 roomid:2887--------
+2021-12-10 13:18:11 510
+got scancode:9 room: 2887
+2021-12-10 13:18:11 510
+to load comment: wxb45082dbda7c55fe roomid:1399--------

@@ -1,0 +1,66 @@
+2021-12-15 14:02:04 638
+getLivingRoomListAndGetComments
+2021-12-15 14:02:05 036
+to load comment: wx3823924b2804b672 roomid:2903--------
+2021-12-15 14:02:07 190
+got scancode:7 room: 2903
+2021-12-15 14:02:07 191
+create app session:wx3823924b2804b672
+2021-12-15 14:02:07 206
+add room to app session load queue:wx3823924b2804b672 room id:2903
+2021-12-15 14:02:07 207
+to load comment: wx03dd356792b44127 roomid:739--------
+2021-12-15 14:02:07 208
+begin to app session to get session id:wx3823924b2804b672 roomId:2903
+2021-12-15 14:02:07 209
+add session req to queue:wx3823924b2804b672 roomId:2903
+2021-12-15 14:02:07 267
+begin to get session :wx3823924b2804b672 room:2903
+2021-12-15 14:02:07 278
+wechat to get session: wx3823924b2804b672 roomid:2903
+2021-12-15 14:02:07 278
+获取微信窗口...
+2021-12-15 14:02:07 278
+Got 微信窗口
+2021-12-15 14:02:08 781
+got scancode:2 room: 739
+2021-12-15 14:02:08 781
+create app session:wx03dd356792b44127
+2021-12-15 14:02:08 781
+add room to app session load queue:wx03dd356792b44127 room id:739
+2021-12-15 14:02:08 781
+begin to app session to get session id:wx03dd356792b44127 roomId:739
+2021-12-15 14:02:08 782
+add session req to queue:wx03dd356792b44127 roomId:739
+2021-12-15 14:02:08 782
+to load comment: wxb45082dbda7c55fe roomid:1440--------
+2021-12-15 14:02:10 182
+got scancode:5 room: 1440
+2021-12-15 14:02:10 182
+create app session:wxb45082dbda7c55fe
+2021-12-15 14:02:10 182
+add room to app session load queue:wxb45082dbda7c55fe room id:1440
+2021-12-15 14:02:10 183
+to load comment: wxeba6eaa635e93cf1 roomid:323--------
+2021-12-15 14:02:10 183
+begin to app session to get session id:wxb45082dbda7c55fe roomId:1440
+2021-12-15 14:02:10 183
+add session req to queue:wxb45082dbda7c55fe roomId:1440
+2021-12-15 14:02:11 773
+got scancode:11 room: 323
+2021-12-15 14:02:11 773
+create app session:wxeba6eaa635e93cf1
+2021-12-15 14:02:11 775
+add room to app session load queue:wxeba6eaa635e93cf1 room id:323
+2021-12-15 14:02:11 775
+to load comment: wxb45082dbda7c55fe roomid:1445--------
+2021-12-15 14:02:11 888
+begin to app session to get session id:wxeba6eaa635e93cf1 roomId:323
+2021-12-15 14:02:11 888
+add session req to queue:wxeba6eaa635e93cf1 roomId:323
+2021-12-15 14:02:13 531
+got scancode:5 room: 1445
+2021-12-15 14:02:13 531
+add room to app session load queue:wxb45082dbda7c55fe room id:1445
+2021-12-15 14:02:13 531
+to load comment: wxb45082dbda7c55fe roomid:1442--------

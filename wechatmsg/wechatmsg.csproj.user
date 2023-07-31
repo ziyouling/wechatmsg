@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>wx3823924b2804b672 2809 TzxEQo_pnWiagCyWq0uXv1Cn4u5v2w5idvWoQM_0zjICAkblqUSTAQVnV1O5SSkVPeY-qP-4cS4xOyJs8gsM05udG02pAirsErb6I3G0fYtkabP32sRXlzx-lOLG3e5XyuRZj3xEanZMm2djSg2lb2PjoERSbY3aSwatVNpenAW-93xAQF7pPBbP7W_VKah_8OpgU78jWqyKiM04yaq_pA1hx6NcwNccyA21Ph4lyko</StartArguments>
+  </PropertyGroup>
+</Project>

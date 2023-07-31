@@ -1,0 +1,15 @@
+D:\jiang.dev\wechatmsg\wechatmsg.rest\obj\Release\wechatmsg.rest.csproj.CoreCompileInputs.cache
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\wechatmsg.rest.exe.config
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\wechatmsg.rest.exe
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\wechatmsg.rest.pdb
+D:\jiang.dev\wechatmsg\wechatmsg.rest\obj\Release\wechatmsg.rest.exe
+D:\jiang.dev\wechatmsg\wechatmsg.rest\obj\Release\wechatmsg.rest.pdb
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\wechatmsg.exe
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\StompLib.dll
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\SockJs.Net45.dll
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\Newtonsoft.Json.dll
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\wechatmsg.pdb
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\wechatmsg.exe.config
+D:\jiang.dev\wechatmsg\wechatmsg.rest\bin\Release\StompLib.pdb
+D:\jiang.dev\wechatmsg\wechatmsg.rest\obj\Release\wechatmsg.rest.csprojAssemblyReference.cache
+D:\jiang.dev\wechatmsg\wechatmsg.rest\obj\Release\wechatmsg.rest.csproj.CopyComplete

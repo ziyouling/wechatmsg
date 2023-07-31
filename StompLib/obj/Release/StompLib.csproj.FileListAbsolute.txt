@@ -1,0 +1,9 @@
+D:\jiang.dev\wechatmsg\StompLib\bin\Release\StompLib.dll
+D:\jiang.dev\wechatmsg\StompLib\bin\Release\StompLib.pdb
+D:\jiang.dev\wechatmsg\StompLib\bin\Release\Newtonsoft.Json.dll
+D:\jiang.dev\wechatmsg\StompLib\bin\Release\SockJs.Net45.dll
+D:\jiang.dev\wechatmsg\StompLib\obj\Release\StompLib.csproj.CoreCompileInputs.cache
+D:\jiang.dev\wechatmsg\StompLib\obj\Release\StompLib.csproj.CopyComplete
+D:\jiang.dev\wechatmsg\StompLib\obj\Release\StompLib.dll
+D:\jiang.dev\wechatmsg\StompLib\obj\Release\StompLib.pdb
+D:\jiang.dev\wechatmsg\StompLib\obj\Release\StompLib.csprojAssemblyReference.cache
